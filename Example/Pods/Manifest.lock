@@ -1,5 +1,5 @@
 PODS:
-  - WKBridge (0.1.0)
+  - WKBridge (0.2.4)
 
 DEPENDENCIES:
   - WKBridge (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  WKBridge: 4414f22f1d9b0fbebd5284c9217402aca20b151c
+  WKBridge: 83fb8c2cb727c8f570c37021b84580abe495a6f4
 
 PODFILE CHECKSUM: cb31850da9a8f81618635069a11db6c7af8ac7b9
 
-COCOAPODS: 1.2.0.beta.1
+COCOAPODS: 1.2.1
